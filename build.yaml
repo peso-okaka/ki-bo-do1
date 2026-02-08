@@ -1,0 +1,6 @@
+---
+include:
+  - board: xiao_ble
+    shield: corne_xiao_direct_left
+  - board: xiao_ble
+    shield: corne_xiao_direct_right
